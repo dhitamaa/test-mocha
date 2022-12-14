@@ -1,0 +1,19 @@
+{
+  "name": "mocha-js-test",
+  "version": "1.0.0",
+  "description": "project mocha",
+  "main": "automation_api_delete_user.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "andika",
+  "license": "ISC",
+  "keywords": [
+    "npm"
+  ],
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
